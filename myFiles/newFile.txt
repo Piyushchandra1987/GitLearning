@@ -1,3 +1,7 @@
 This is new File.
 
+<<<<<<< HEAD
+this is invalid data
+=======
 thius is mnybjbsjdjsdjsddfhksdjfhksdfhksjfs
+>>>>>>> master
